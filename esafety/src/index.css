@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.h-100 {
+  background-color: #2e3092;
+  min-height: 100vh;
+  align-items: center;
+}
+
+.text-center h5{
+  font-size: medium;
+}
+
+.card{
+  margin: 15% auto;
+}
+
+.login-form{
+  /* fallback for old browsers */
+  min-height: 100vh;
+  background: #f3f3ff;
+}
+
+.login-form .container{
+  width: 80%;
+  height: 80%;
+}
+
+.log-button .btn{
+  background-color: #2e3092;
+}
+
+.copyright h5{
+  font-size: smaller;
+}
+
+.field-input{
+  width: 100%;
+  border:2px solid #c1c1c1;
+  display: flex;
+}
+.field-input i{
+  padding: 8px 16px;
+  color: black;
+}
+.field-input input{
+  border:0px solid #c1c1c1;
+  width: 100%;
+  outline: none;
+  height: 30px;
+  font-size: 18px;
+}
