@@ -84,6 +84,7 @@
 			include "apd_wajib.inc"; 
 			//include "apd_pengelasan.inc";
 			include "apd_pengecatan.inc";
+			include "tambahan.inc";
 		?>
 
 		<a href="" class=" float-right">
